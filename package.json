@@ -19,7 +19,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.7",
     "@fortawesome/free-solid-svg-icons": "^5.4.2",
     "@fortawesome/react-fontawesome": "^0.1.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "canvg": "^1.5.3",
     "immutable": "^3.8.2",
     "manikin-model": "^1.0.1",
